@@ -4,7 +4,7 @@ Laboratory Work 3 Activity — Building a Custom Image Classifier with TensorFlo
 # Google Colab Link: https://colab.research.google.com/drive/1ufbzsu8w6M78oKtvZCp__za9HMb-L71d?usp=drive_link
 # Google Drive Link: https://drive.google.com/drive/folders/19JUtZPbQCJ7DV2GCFWNKYN8pssBHZbQx?usp=drive_link
 
-**PART 2: Guide Questions (Student Reflection & Explanation)**
+***PART 2: Guide Questions (Student Reflection & Explanation)***
 *Students must answer the following:*
 
 
