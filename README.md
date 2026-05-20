@@ -1,8 +1,9 @@
 # 3_Custom_Image_Classifier
 Laboratory Work 3 Activity — Building a Custom Image Classifier with TensorFlow Using Personal Image Datasets from Google Drive
 
-# Google Colab Link: https://colab.research.google.com/drive/1ufbzsu8w6M78oKtvZCp__za9HMb-L71d?usp=drive_link
+# Google Colab Link: https://colab.research.google.com/drive/1ufbzsu8w6M78oKtvZCp__za9HMb-L71d#scrollTo=PcKin3zf_Spq
 # Google Drive Link: https://drive.google.com/drive/folders/19JUtZPbQCJ7DV2GCFWNKYN8pssBHZbQx?usp=drive_link
+# Github Repo Link: https://github.com/zhairamilan/3_Custom_Image_Classifier
 
 ***PART 2: Guide Questions (Student Reflection & Explanation)***
 *Students must answer the following:*
